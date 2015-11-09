@@ -2,7 +2,7 @@
 
 ## Installation
 
-The Laravel 5 Feeds Service Provider can be installed via [Composer](http://getcomposer.org) by requiring the
+The Laravel 5 Biblia Service Provider can be installed via [Composer](http://getcomposer.org) by requiring the
 `jnplonte/biblia` package in your project's `composer.json`.
 
 ```json
