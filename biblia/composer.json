@@ -1,0 +1,23 @@
+{
+    "name": "jnplonte/biblia",
+    "description": "Biblia.com API Integration on laravel",
+    "keywords": ["laravel", "framework", "github", "biblia", "PHP GitHub API", "GitHub", "Laravel GitHub", "Laravel-GitHub"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jnplonte",
+            "email": "jnpl.onte@gmail.com",
+            "homepage": "http://www.jnpl.me"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "jnplonte\\biblia\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
